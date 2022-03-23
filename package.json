@@ -1,0 +1,19 @@
+{
+  "name": "food-express1",
+  "version": "1.0.0",
+  "description": "food delivery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopnobaz/food-express1.git"
+  },
+  "author": "jahed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shopnobaz/food-express1/issues"
+  },
+  "homepage": "https://github.com/shopnobaz/food-express1#readme"
+}
