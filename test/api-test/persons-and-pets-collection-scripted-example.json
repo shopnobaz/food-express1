@@ -499,12 +499,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/petOwners",
+					"raw": "http://localhost:80/api/petOwners",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "80",
 					"path": [
 						"api",
 						"petOwners"
@@ -569,12 +569,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/petOwners/{{id}}",
+					"raw": "http://localhost:80/api/petOwners/{{id}}",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "80",
 					"path": [
 						"api",
 						"petOwners",
